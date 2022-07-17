@@ -1,0 +1,66 @@
+.homepage {
+    position: relative;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    background:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+     url('../../assets/jakub-dziubak-iOHJKJqO6E0-unsplash.jpg') no-repeat center center;
+    background-size: cover;
+    height: 90vh;
+
+    @media only screen and (max-width: 650px) {
+        justify-content: center;
+        
+    }
+}
+
+.homepage-text-container {
+    padding-left: 3rem;
+    
+
+    h1 {
+        font-size: 3rem;
+        letter-spacing: .8rem;
+        font-weight: 600;
+
+        @media only screen and (max-width: 650px) {
+            font-size: 2rem;
+            letter-spacing: .1rem;
+            font-weight: 400;
+            color: #bc002d;
+        }
+    }
+
+    h2 {
+        font-weight: 400;
+        letter-spacing: .2rem;
+        font-size: 1.5rem;
+
+        @media only screen and (max-width: 650px) {
+            font-size: 1.2rem;
+            letter-spacing: .1rem;
+        }
+    }
+
+    button {
+        padding: .7rem 2rem;
+        border: none;
+        color: inherit;
+        background-color: #bc002d;
+        border-radius: 3px;
+        font-size: 1.1rem;
+    }
+
+    @media only screen and (max-width: 650px) {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+        padding: 2.5rem 3.5rem;
+        text-align: center;
+        background-color: #141414;
+        border-radius: 8px;
+    }
+}
