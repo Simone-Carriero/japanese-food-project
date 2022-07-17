@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/japanese-food-project/static/css/main.5f5ae603.css",
-    "main.js": "/japanese-food-project/static/js/main.556b4fd9.js",
+    "main.css": "/japanese-food-project/static/css/main.6f03edc9.css",
+    "main.js": "/japanese-food-project/static/js/main.8ee18d81.js",
     "static/media/michele-blackwell-rAyCBQTH7ws-unsplash.jpg": "/japanese-food-project/static/media/michele-blackwell-rAyCBQTH7ws-unsplash.0cd6502be45930170035.jpg",
     "static/media/paulo-doi-6uTQmtqcAzs-unsplash.jpg": "/japanese-food-project/static/media/paulo-doi-6uTQmtqcAzs-unsplash.f6daa5cdee0d0a15958e.jpg",
     "static/media/rod-long-kImU-9S9uh8-unsplash.jpg": "/japanese-food-project/static/media/rod-long-kImU-9S9uh8-unsplash.286cd69f0399f854e6cd.jpg",
@@ -14,11 +14,11 @@
     "static/media/sushi-154528.svg": "/japanese-food-project/static/media/sushi-154528.da89ef88b7d6b81fbcd0e2dde89c3b6e.svg",
     "service-worker.js": "/japanese-food-project/service-worker.js",
     "index.html": "/japanese-food-project/index.html",
-    "main.5f5ae603.css.map": "/japanese-food-project/static/css/main.5f5ae603.css.map",
-    "main.556b4fd9.js.map": "/japanese-food-project/static/js/main.556b4fd9.js.map"
+    "main.6f03edc9.css.map": "/japanese-food-project/static/css/main.6f03edc9.css.map",
+    "main.8ee18d81.js.map": "/japanese-food-project/static/js/main.8ee18d81.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f5ae603.css",
-    "static/js/main.556b4fd9.js"
+    "static/css/main.6f03edc9.css",
+    "static/js/main.8ee18d81.js"
   ]
 }
