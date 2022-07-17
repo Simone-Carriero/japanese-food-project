@@ -1,0 +1,59 @@
+header {
+    color: #FFFFFF;
+}
+
+.visible-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #12151a;
+    width: 100%;
+
+    .nav-icon {
+        width: 5rem;
+        
+    }
+
+}
+
+
+.navbar {
+    display: flex;
+    gap: 4rem;
+    padding: 2.5rem;
+    background-color: #12151a;
+   
+
+
+    .header-icon {
+        cursor: pointer;
+    }
+
+    .nav-link {
+        @media only screen and (max-width: 687px) {
+            display: none;
+        }
+
+    }
+}
+
+
+.toggle-container {
+    display: none;
+
+    @media only screen and (max-width: 687px) {
+        display: block;
+    }
+}
+
+.nav-link {
+    text-decoration: none;
+    color: inherit;
+    transition: all .3s;                    
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    outline: none;
+    color: #bc002d;
+}

@@ -1,0 +1,16 @@
+footer {
+    background-color: #12151a;
+    color: #FFFFFF;
+    height: 15rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    
+
+    .social-container {
+        display: flex;
+        gap: 2rem;
+    }
+}
