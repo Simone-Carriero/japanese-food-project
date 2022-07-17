@@ -1,0 +1,68 @@
+.contact {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+    @media only screen and (max-width: 687px) {
+        grid-template-columns: 1fr;
+    }
+
+    .contact-background {
+        background: url('../../assets/paulo-doi-6uTQmtqcAzs-unsplash.jpg') no-repeat center center;
+        background-size: cover;
+        height: 90vh;
+
+        @media only screen and (max-width: 687px) {
+            height: 100vh;
+        }
+    }
+
+    .contact-form-container {
+        padding: 2rem;
+        display: flex;
+        flex-direction: column;
+        color: #12151ae1;
+        
+
+        h2 {
+            font-size: 3rem;
+            font-weight: 400;
+        }
+
+        .form {
+            width: 80%;
+            margin-top: auto;
+            margin-bottom: auto;
+
+            &-container {
+                display: flex;
+                flex-direction: column;
+                gap: 1rem;
+                margin-top: 1rem;
+    
+                input,
+                textarea {
+                    padding-bottom: 1rem;
+                    outline: none;
+                    border: none;
+                    border-bottom: 1px solid rgba(0, 0, 0, .5);
+                }
+
+                input::placeholder,
+                textarea::placeholder {
+                    font-size: 1rem;
+                }
+            }
+
+            button {
+                margin-top: 2rem;
+                padding: .7rem 2rem;
+                border: none;
+                color: white;
+                background-color: #141414;
+                border-radius: 3px;
+                font-size: 1.1rem;
+            }
+        }
+    }
+
+}
