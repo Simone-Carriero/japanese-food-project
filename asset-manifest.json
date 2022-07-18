@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/japanese-food-project/static/css/main.ef46a179.css",
-    "main.js": "/japanese-food-project/static/js/main.f5adb8c7.js",
+    "main.css": "/japanese-food-project/static/css/main.06fa57bb.css",
+    "main.js": "/japanese-food-project/static/js/main.4d6da7da.js",
     "static/media/michele-blackwell-rAyCBQTH7ws-unsplash.jpg": "/japanese-food-project/static/media/michele-blackwell-rAyCBQTH7ws-unsplash.0cd6502be45930170035.jpg",
+    "static/media/paulo-doi-6uTQmtqcAzs-unsplash.jpg": "/japanese-food-project/static/media/paulo-doi-6uTQmtqcAzs-unsplash.f6daa5cdee0d0a15958e.jpg",
+    "static/media/rod-long-kImU-9S9uh8-unsplash.jpg": "/japanese-food-project/static/media/rod-long-kImU-9S9uh8-unsplash.286cd69f0399f854e6cd.jpg",
+    "static/media/jakub-dziubak-iOHJKJqO6E0-unsplash.jpg": "/japanese-food-project/static/media/jakub-dziubak-iOHJKJqO6E0-unsplash.28476cc8fc45e47f5832.jpg",
     "static/media/mahmoud-fawzy-EqoCUzG9200-unsplash.jpg": "/japanese-food-project/static/media/mahmoud-fawzy-EqoCUzG9200-unsplash.2cfa835b28b4c71f6683.jpg",
     "static/media/taylor-grote-UxhIU5f5GN4-unsplash.jpg": "/japanese-food-project/static/media/taylor-grote-UxhIU5f5GN4-unsplash.d6444f001c6955ada005.jpg",
     "static/media/food-g7e2980598_1920.jpg": "/japanese-food-project/static/media/food-g7e2980598_1920.8f6de8bcef45cf452caa.jpg",
@@ -11,11 +14,11 @@
     "static/media/sushi-154528.svg": "/japanese-food-project/static/media/sushi-154528.da89ef88b7d6b81fbcd0e2dde89c3b6e.svg",
     "service-worker.js": "/japanese-food-project/service-worker.js",
     "index.html": "/japanese-food-project/index.html",
-    "main.ef46a179.css.map": "/japanese-food-project/static/css/main.ef46a179.css.map",
-    "main.f5adb8c7.js.map": "/japanese-food-project/static/js/main.f5adb8c7.js.map"
+    "main.06fa57bb.css.map": "/japanese-food-project/static/css/main.06fa57bb.css.map",
+    "main.4d6da7da.js.map": "/japanese-food-project/static/js/main.4d6da7da.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef46a179.css",
-    "static/js/main.f5adb8c7.js"
+    "static/css/main.06fa57bb.css",
+    "static/js/main.4d6da7da.js"
   ]
 }
