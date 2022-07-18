@@ -2,7 +2,7 @@
   "name": "react-food-ordering",
   "homepage": "https://simone-carriero.github.io/japanese-food-project/",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",

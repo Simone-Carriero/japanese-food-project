@@ -11,6 +11,9 @@ header {
 
     .nav-icon {
         width: 5rem;
+        @media only screen and (max-width: 687px) {
+            width: 4rem;
+        }
         
     }
 
@@ -34,6 +37,10 @@ header {
             display: none;
         }
 
+    }
+
+    @media only screen and (max-width: 687px) {
+        padding: 1.2rem;
     }
 }
 

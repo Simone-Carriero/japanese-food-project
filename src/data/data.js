@@ -15,7 +15,7 @@ export const data = [
     },
     {
         title: "Mochi",
-        price: 4.50,
+        price: 4.55,
         image: mochi
     },
     {
@@ -35,7 +35,7 @@ export const data = [
     },
     {
         title: "Takoyaki",
-        price: 5.80,
+        price: 5.82,
         image: takoyaki
     },
 ]
